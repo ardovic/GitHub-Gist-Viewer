@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHub Gist Viewer</string>
+    <string name="unnamed_gist">Untitled gist</string>
+    <string name="gist_contents">Gist contents:</string>
+    <string name="commits">Commits:</string>
+    <string name="committed_at">Committed at:</string>
+    <string name="deletions">Deletions:</string>
+    <string name="additions">Additions:</string>
+    <string name="top_contributors">Top contributors:</string>
+    <string name="recent_gists">Recent gists:</string>
+</resources>
